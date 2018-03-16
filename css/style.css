@@ -220,11 +220,19 @@ img {
     #showcase h1 {
         font-size: 30px;
     }
+
+    section#company{
+
+    }
 }
 
 @media (max-width: 500px) {
     #showcase .showcase-content {
         padding:40px 10px;
+    }
+
+    section#company{
+
     }
 }
 
